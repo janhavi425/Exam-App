@@ -3,7 +3,8 @@
 1. [GENERAL INFO. ](#GENERAL_INFO)
 2. [Objective. ](#Objective)
 3. [Tools. ](#Tools)
-4. [Screenshots. ](#Screenshots)
+4. [APK file link. ](#APK-file)
+5. [Screenshots. ](#Screenshots)
 <a name="GENERAL_INFO"></a>
 ## GENERAL INFO
 ***
@@ -27,7 +28,11 @@ Snack lets you run complete Expo project in the browser. No download required
 here is the link of snack
 https://snack.expo.io/@prajwalprogrammer/mythapp
 
-
+<a name="APK-file"></a>
+## APK file link
+***
+here is the link of APK file
+https://drive.google.com/file/d/1Img4MIq8W1-QCcfZzTSLEtWwYfqJQZRj/view?usp=sharing
 
 <a name="Screenshots"></a>
 ### SCREENSHOT
