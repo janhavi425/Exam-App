@@ -34,10 +34,15 @@ https://snack.expo.io/@prajwalprogrammer/mythapp
 
 <a name="Screenshots"></a>
 ### SCREENSHOT
+![Weather 1](https://user-images.githubusercontent.com/76836929/117402011-3d2ce280-af23-11eb-8ca8-271da583eba9.jpeg)
+![weather 2](https://user-images.githubusercontent.com/76836929/117402031-4322c380-af23-11eb-85fb-4c358f3200e5.jpeg)
+![weather 3](https://user-images.githubusercontent.com/76836929/117402038-461db400-af23-11eb-9b64-f9d71ab3618f.jpeg)
 
-![Quiz 1](https://user-images.githubusercontent.com/76836929/116201782-8331bb80-a757-11eb-90be-19656502ff70.jpeg)
+![weather 5](https://user-images.githubusercontent.com/76836929/117402069-546bd000-af23-11eb-9d86-ed605b578b0f.jpeg)
+![weather 6](https://user-images.githubusercontent.com/76836929/117402077-5766c080-af23-11eb-8212-186460dc716b.jpeg)
+![weather 7](https://user-images.githubusercontent.com/76836929/117402082-59c91a80-af23-11eb-8125-36f7dd73ca0b.jpeg)
+![weather 8](https://user-images.githubusercontent.com/76836929/117402085-5c2b7480-af23-11eb-9aac-6607aabe4091.jpeg)
 
-![quiz 2](https://user-images.githubusercontent.com/76836929/116201794-86c54280-a757-11eb-8fdc-0ce3d94f1160.jpeg)
 
-![quiz 3](https://user-images.githubusercontent.com/76836929/116201831-8fb61400-a757-11eb-92c0-c6cb4abb1a05.jpeg)
+
 
