@@ -31,7 +31,8 @@ https://expo.io/@prajwalprogrammer/projects/ExamApp
 <a name="APK-file"></a>
 ## APK file link
 ***
-here is the link of APK file
+here is the link of APK file you can download the app via this link:
+
 https://drive.google.com/file/d/1Img4MIq8W1-QCcfZzTSLEtWwYfqJQZRj/view?usp=sharing
 
 <a name="Screenshots"></a>
