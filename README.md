@@ -27,7 +27,10 @@ Snack lets you run complete Expo project in the browser. No download required
 here is the link of snack
 https://snack.expo.io/@prajwalprogrammer/mythapp
 
-
+ ## Expo app link:
+ ***
+ Doenload the app via this link:
+ https://drive.google.com/file/d/1Img4MIq8W1-QCcfZzTSLEtWwYfqJQZRj/view?usp=sharing
 
 <a name="Screenshots"></a>
 ### SCREENSHOT
